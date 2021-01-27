@@ -62,8 +62,7 @@ export default () => (
         }
         img {
           display: block;
-          margin-left: auto;
-          margin-right: auto;
+          margin: auto;
         }
         a {
           text-align: center;
