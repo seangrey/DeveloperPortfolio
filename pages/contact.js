@@ -21,9 +21,8 @@ export default () => (
       <h4>Developers Portfolio</h4>
       <h1>CONTACT</h1>
       <hr />
-      <h3>Feel free to email or call if you have any further questions.</h3>
+      <h3>Feel free to email me if you have any further questions.</h3>
       <h4>Email: sean.greyvenstein@gmail.com</h4>
-      <h4>Cell: 082 7431 242</h4>
 
       <style jsx>{`
         div {
