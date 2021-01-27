@@ -1,0 +1,10 @@
+//Dependency directories
+
+node_modules/
+
+//Next build output 
+.next
+
+//ENV files
+.env
+.env.build
